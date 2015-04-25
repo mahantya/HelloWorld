@@ -11,7 +11,7 @@ package abhi;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-    	//print 
+    	//print out msg
         System.out.println("Hello World!");
     }
 }

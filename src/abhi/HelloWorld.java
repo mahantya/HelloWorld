@@ -13,5 +13,6 @@ public class HelloWorld {
     public static void main(String[] args) {
     	//print out msg
         System.out.println("Hello World!");
+        System.out.println("-----");
     }
 }
